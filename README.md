@@ -1,1 +1,3 @@
 # 1Algo
+
+Privacy policy
